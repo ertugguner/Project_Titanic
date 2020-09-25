@@ -1,6 +1,3 @@
-# Project_Titanic
-Titanic Survivor Estimator 
-
 # Titanic Survivor Estimator(Logistic Regression): Project Overview
 - Predicting who survived or deceased with using Logistic Regression machine learning model
 - I completed this project with what I learned from this course:
